@@ -1,1 +1,0 @@
-## Carrossel de imagens
