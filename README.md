@@ -1,6 +1,6 @@
 # Carrossel de imagens
 
-## 🎠 Um carrossel de imagens simples com JS
+## 🎠 Um carrossel simples de imagens com JS
 
 O desafio pedia para criar um carrossel de imagens simples com as setas de voltar e avançar.E quando o slide estivesse na primeira imagem a seta de voltar ficasse com opacidade e sem click e quando chegasse no último slide acontecesse o mesmo com seta a de avançar.
 
